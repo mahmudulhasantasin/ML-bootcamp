@@ -1,3 +1,4 @@
+# Write a function add_numbers(a, b) that returns sum. Print the result.
 def add_numbers(a, b):
     return a + b
 

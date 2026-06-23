@@ -1,3 +1,4 @@
+# Format product='Laptop', price=75000.5, discount=10 using f-string, .format(), and % operator.
 product = 'Laptop'
 price = 75000.5
 discount = 10

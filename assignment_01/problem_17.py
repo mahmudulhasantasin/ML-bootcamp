@@ -1,3 +1,4 @@
+# Take length and width, calculate area and perimeter, print to 2 decimal places.
 length = float(input("Enter length: "))
 width = float(input("Enter width: "))
 area = length * width

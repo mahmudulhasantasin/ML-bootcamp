@@ -1,3 +1,4 @@
+# Take score 0-100, print grade (A+, A, B, C, F) and Pass/Fail.
 score = int(input("Enter score (0-100): "))
 if score >= 90:
     grade = "A+"

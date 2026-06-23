@@ -1,3 +1,4 @@
+# Convert x='42' to int, y=3.9 to int, z=True to str. Print each with type().
 x = '42'
 y = 3.9
 z = True

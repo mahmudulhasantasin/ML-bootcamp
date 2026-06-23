@@ -1,3 +1,4 @@
+# Count how many numbers in a list are greater than 10.
 numbers = [5, 12, 8, 20, 3, 15]
 count = 0
 for num in numbers:

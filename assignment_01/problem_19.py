@@ -1,3 +1,4 @@
+# Login: check username then password using nested if-else. Print Access Granted/Wrong Password/User Not Found.
 correct_username = "admin"
 correct_password = "pass123"
 username = input("Enter username: ")

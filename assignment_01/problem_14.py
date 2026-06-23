@@ -1,3 +1,4 @@
+# For 'Banana': find('a'), count('a'), startswith('Ba'), endswith('na'), isdigit(). Also check '12345' vs '123a5'.
 word = 'Banana'
 print(word.find('a'))
 print(word.count('a'))
